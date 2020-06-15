@@ -1,4 +1,4 @@
-# vue-practice-prep
+# vue-m-crm
 
 ## Project setup
 ```
